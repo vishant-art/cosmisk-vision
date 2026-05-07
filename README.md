@@ -34,7 +34,7 @@ So you scrub through competitor ads trying to reverse-engineer hooks. You watch 
 ## Install
 
 ```bash
-git clone https://github.com/AskSmashed/cosmisk-vision ~/.claude/skills/cosmisk-vision
+git clone https://github.com/vishant-art/cosmisk-vision ~/.claude/skills/cosmisk-vision
 ```
 
 **Dependencies:**
